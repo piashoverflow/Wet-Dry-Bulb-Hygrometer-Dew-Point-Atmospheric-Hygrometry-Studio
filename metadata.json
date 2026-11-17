@@ -1,0 +1,6 @@
+{
+  "name": "Wet & Dry Bulb Hygrometer, Dew Point & Atmospheric Hygrometry Studio",
+  "description": "Interactive physics and computational meteorology simulation for Mason's Wet & Dry Bulb Hygrometer, Glaisher's factor, dew point calculation, saturation vapor pressure interpolation, and real-world hygrometry phenomena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
